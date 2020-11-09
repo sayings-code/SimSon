@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="Data_Analysis">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\develop\IdeaProject\Data_Analysis\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
